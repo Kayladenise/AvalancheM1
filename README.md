@@ -1,12 +1,12 @@
 # AvalancheM1
 
-#Avalanche-Assessment
+# Avalanche-Assessment
 This project is a final assessment in Solidity ETH PROOF: Beginner EVM Course.
 
-#Description
+# Description
 This project is about writing a smart contract in Solidity. The smart contract is about my own token, minting and burning it. As well as tracking the token balance and managing the total supply of the account.
 
-#Getting Started
+# Getting Started
 Executing the program
 To get started, navigate to Remix - an online Solidity IDE, at https://remix.ethereum.org/.
 
