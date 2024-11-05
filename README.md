@@ -1,7 +1,7 @@
 # AvalancheM1
 
 # Avalanche-Assessment
-This project is a final assessment in Solidity ETH PROOF: Beginner EVM Course.
+This project is a final assessment in Avalanche ETH + AVAX PROOF: Intermediate EVM Course, Functions & Errors
 
 # Description
 This project is about writing a smart contract in Solidity. The smart contract is about my own token, minting and burning it. As well as tracking the token balance and managing the total supply of the account.
@@ -20,6 +20,7 @@ After deployment, go to the Deployed/Unpinned Contracts section and proceed to i
 
 Author/s
 Kayla Denise Umali
+
 202110538@fit.edu.ph
 
 License
